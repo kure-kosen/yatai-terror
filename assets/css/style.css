@@ -24,7 +24,7 @@ html, body {
   position: relative;
   width: 100%;
   padding: 56.25% 15px 0 15px;
-  margin: 0 auto;
+  margin: 0 auto 50px auto;
 }
 
 .video iframe {
