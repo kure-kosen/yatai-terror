@@ -4,16 +4,26 @@ html, body {
   width: 100vw;
 }
 
-.container {
-  margin-top: 76px;
+header, main, footer {
+  margin-bottom: 50px;
 }
 
 .row {
   margin-bottom: 50px;
 }
 
+.carousel-item img {
+  width: 100%;
+  height: 80vh;
+}
+
+main {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
 .description {
-  width: auto;
+  width: 100%;
   height: 200px;
   border: solid 1px;
   margin-bottom: 20px;
